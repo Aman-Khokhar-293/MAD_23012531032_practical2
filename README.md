@@ -26,10 +26,10 @@
 ## Screenshots  
 (Place your screenshots in a folder named `screenshots/` and link them here)  
 
-- **UI Screen:** <img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/61283918-d813-4a26-a4a6-5132e149e720" />
-- **Logcat Output:** <img width="1594" height="205" alt="image" src="https://github.com/user-attachments/assets/7472a11e-3cd3-4fc4-9412-f1795e1f10d2" />
-- **Toast & Snackbar:** <img width="342" height="746" alt="image" src="https://github.com/user-attachments/assets/b265d4db-389c-4f63-8594-0741a58d9d61" />
-  - <img width="342" height="741" alt="Screenshot 2025-08-25 220417" src="https://github.com/user-attachments/assets/6cbf6859-0aa8-448b-9b8c-337eb4789247" />
+- **UI Screen:** <br><img width="276" height="611" alt="image" src="https://github.com/user-attachments/assets/61283918-d813-4a26-a4a6-5132e149e720" /><br>
+- **Logcat Output:** <br><img width="1594" height="205" alt="image" src="https://github.com/user-attachments/assets/7472a11e-3cd3-4fc4-9412-f1795e1f10d2" /><br>
+- **Toast & Snackbar:** <br><img width="342" height="746" alt="image" src="https://github.com/user-attachments/assets/b265d4db-389c-4f63-8594-0741a58d9d61" /><br>
+  - <br><img width="342" height="741" alt="Screenshot 2025-08-25 220417" src="https://github.com/user-attachments/assets/6cbf6859-0aa8-448b-9b8c-337eb4789247" /><br>
 
   
 ---
